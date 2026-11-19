@@ -1,8 +1,9 @@
-# Fotografías de referencia
+# Fotografías ilustrativas
 
-Las imágenes ilustran el prototipo y pueden sustituirse conservando los nombres de archivo.
+- medico.webp · https://www.pexels.com/photo/6129500/
+- consulta.webp · https://www.pexels.com/photo/7579831/
+- sala.webp · https://www.pexels.com/photo/3844581/
+- atencion.webp · https://www.pexels.com/photo/7089401/
+- equipo.webp · https://www.pexels.com/photo/6129507/
 
-- `consulta.webp` · [Pexels, foto 5215024](https://www.pexels.com/photo/5215024/)
-- `valoracion.webp` · [Pexels, foto 3762453](https://www.pexels.com/photo/3762453/)
-
-[Licencia de Pexels](https://www.pexels.com/license/)
+Licencia: https://www.pexels.com/license/
